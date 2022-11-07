@@ -106,6 +106,21 @@ p {
     text-align: center;
 }
 
+#search-engine-optimization{
+    /* unique id to allow user to click top link and be brought to the specified section */
+
+}
+
+#online-reputation-management{
+     /* unique id to allow user to click top link and be brought to the specified section */
+
+}
+
+#social-media-marketing{
+     /* unique id to allow user to click top link and be brought to the specified section */
+
+}
+
 /* Combined info section css into one class. All elements had same stylization */
 .infosectionstyle {
     margin-bottom: 20px;
