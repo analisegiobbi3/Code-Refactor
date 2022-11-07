@@ -22,7 +22,7 @@ THEN I find a concise, descriptive title
 ## Description
 Module 1 Challenge. This project was to practice and demonstrate and understanding of HTML and CSS. The main goal is to refactor the existing code to be cleaner and more accessible to users. Below is the expected result of the code refactor. 
 
-![Web Page Demo](./Develop/assets/images/page-demo.png)
+![Web Page Demo](./assets/images/page-demo.png)
 
 
 ## intalation 
