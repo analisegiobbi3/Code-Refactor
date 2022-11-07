@@ -22,6 +22,7 @@ body {
     font-size: 48px;
 }
 
+/* changed from class to ID, since this is a unqiuely once used design */
 #seo{
     color: #d9dcd6; 
 }
@@ -77,7 +78,7 @@ p {
     margin-left: 20px;
 }
 
-/* combined benefits section CSS into one class. All elements have same CSS style */
+/* combined benefits section CSS into one class. All elements have same CSS style, therefore the class can be reused */
 .benefits {
     margin-right: 20px;
     padding: 20px;
