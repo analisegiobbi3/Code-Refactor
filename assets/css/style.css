@@ -92,6 +92,7 @@ p {
 
 }
 
+/* formatting individual elements defnied by the benefits class */
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -132,7 +133,7 @@ p {
     color: #ffffff;
 }
 
-
+/* formatting individual elements defnied by the infosectionstyle class */
 .infosectionstyle img {
     max-height: 200px;
 }

@@ -31,7 +31,7 @@ Module 1 Challenge. This project was to practice and demonstrate and understandi
 ## Link to Deploy 
 [Horiseon Marketing](https://analisegiobbi3.github.io/mod_1_challenge/#social-media-marketing)
 
-## intalation 
+## Installation 
 N/A
 
 ## Usage
